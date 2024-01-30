@@ -1,9 +1,3 @@
-/* This is the only file you should update and submit. */
-
-/* Fill in your Name and GNumber in the following two comment fields
- * Name: Aidan Grupac
- * GNumber: G01367405
- */
 
 #include <sys/wait.h>
 #include "taskmntr.h"
